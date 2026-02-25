@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Secret files
+*.env
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+
+# Django database
+*.sqlite3
+db.sqlite3

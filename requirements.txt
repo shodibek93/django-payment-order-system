@@ -1,0 +1,7 @@
+djangorestframework
+psycopg[binary]
+python-dotenv
+celery
+redis
+pytest
+pytest-django
