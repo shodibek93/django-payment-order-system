@@ -23,3 +23,7 @@ db.sqlite3
 # Git files
 .git/
 .gitignore
+
+# VS Code and PyCharm settings
+.vscode/
+.idea/
